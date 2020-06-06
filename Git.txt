@@ -1,0 +1,14 @@
+ git init
+ git add .
+ git commit -m <message>
+
+
+
+ git status
+ git log
+
+git checkout -b <branchname>
+git pull 
+git pull origin <branchname>
+
+git push origin <branchname>
